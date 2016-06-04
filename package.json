@@ -1,0 +1,19 @@
+{
+  "name": "l02-sorting",
+  "version": "1.0.0",
+  "description": "simple implementation of sorting algorythms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lits-nodejs-course/l02-sorting.git"
+  },
+  "author": "Taras Kunch <taras.kunch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lits-nodejs-course/l02-sorting/issues"
+  },
+  "homepage": "https://github.com/lits-nodejs-course/l02-sorting#readme"
+}
